@@ -1,3 +1,9 @@
+#####################
+# Cifar10-Classifier
+# Program that classifes digits, written in Python using PyTorch
+# by Liviu Rotaru (c) 2018
+#####################
+
 from __future__ import print_function
 import argparse
 import torch

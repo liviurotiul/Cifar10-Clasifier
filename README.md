@@ -1,2 +1,4 @@
-# Cifar10-Clasifier
-Cifar10 clasifier in pyhton using pytorch
+# Cifar10-Classifier
+
+Cifar10 classifier in pyhton using Pytorch
+### by Liviu Rotaru, 2018
